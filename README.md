@@ -1,16 +1,58 @@
-# React + Vite
+# HyperLiquid Bot ⚡
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Deploy on Vercel](https://img.shields.io/badge/deploy-vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://hyperliquid-botv72.vercel.app/)
 
-Currently, two official plugins are available:
+Um bot moderno em **React + Vite + Tailwind CSS** que consome APIs financeiras para exibir dados de mercado em tempo real — como preços de criptomoedas, métricas de liquidez e alertas. Ideal para acompanhar tendências com uma interface leve e responsiva.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 📈 Consulta de preços de criptomoedas (ex: **Bitcoin**)  
+- 📊 Visualização de métricas de liquidez e outras métricas de mercado  
+- 🔄 Atualização dinâmica via chamadas de API  
+- 🧱 Interface minimalista, rápida e responsiva  
+- 🔎 Botões de ação para filtragem, atualização e navegação entre métricas
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧰 Tecnologias Utilizadas
+
+- React  
+- Vite  
+- Tailwind CSS  
+- Fetch (ou Axios) para chamadas de API  
+
+---
+
+## 💻 Como Rodar Localmente
+
+```bash
+git clone https://github.com/felippemcc/hyperliquid-bot.git  
+cd hyperliquid-bot  
+npm install  
+npm run dev  
+```
+
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas! Sinta-se livre para:
+- Reportar bugs
+- Sugerir novas features
+- Adicionar novos scrapers
+- Melhorar a documentação
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT.
+
+## 👨‍💻 Autor
+
+**Felippe Moura**
+- GitHub: [@felippemcc](https://github.com/felippemcc)
+- LinkedIn: [Felippe Moura](https://www.linkedin.com/in/felippemoura/)
+
+---
+
+⭐ Se este projeto te ajudou, considere dar uma estrela!
+
