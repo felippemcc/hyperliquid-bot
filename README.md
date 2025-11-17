@@ -25,6 +25,11 @@ Um bot moderno em **React + Vite + Tailwind CSS** que consome APIs financeiras p
 
 ---
 
+## ▶️ Como Rodar Online:
+[Deploy na Vercel](https://hyperliquid-botv72.vercel.app/)
+
+---
+
 ## 💻 Como Rodar Localmente
 
 ```bash
